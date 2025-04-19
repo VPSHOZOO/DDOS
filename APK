@@ -1,0 +1,29 @@
+clear
+sudo apt install nodejs -y
+clear
+sudo apt install npm -y
+clear
+
+echo " install apk module js bro "
+sleep 0.5
+clear
+npm install node-telegram-bot-api
+
+npm install axios
+
+npm install net
+
+npm install dgram
+
+npm install http
+
+npm install https
+
+npm install url
+
+npm install color
+
+npm install moment
+
+
+node main.js
